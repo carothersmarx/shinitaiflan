@@ -1,16 +1,16 @@
 {
-  "title": "Flan Ingin Mati",
-  "description": "Flandre Scarlet lelah dengan kehidupan. Di ulang tahunnya ke-695, ia berencana untuk mengakhiri segalanya.",
-  "artist": "Tsukumizu",
-  "author": "Tsukumizu",
-  "cover": "https://i.imgur.com/GKMKL6o.png",
+  "title": "<Flan Ingin mati>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<https://imgur.com/a/ATRIMVt>",
   "chapters": {
     "<chapter number>": {
-      "title": "Oneshot",
-      "volume": "1",
+      "title": "<chapter name>",
+      "volume": "<volume number>",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/<ATRIMVt>/"
-      }
+      },
       "last_updated": "1616368746"
     },
   }
